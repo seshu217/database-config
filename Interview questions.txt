@@ -1,0 +1,88 @@
+Tell me about your roles and responsibility on day to day basis?
+
+Have write any jenkinsfile and what kind jenkinsfile you have written and groovy or shell script?
+if i want to run someother job automatically when one job is done what you have to do? 
+Linux i want to see line 5 in a file what is the command
+i want to change file or folder permission what is the command
+where user information will be stored? /etc/passwd
+passwd information? /etc/shadow
+Branching stratagies
+Git fetch and git pull difference?
+what Pom.xml Contains
+how many stages in maven
+what is the use of Ansible?
+folder structure or roles?
+Difference b/w playbooks and roles?
+i want to install tomcat on 5 machines how will you do that?
+
+
+docker and kubernetes
+some kubernetes commands?
+docker commands?
+virtualization and containerzation difference?
+docker compose, docker network, docker links
+docker containers memory usage, %usage how will you check?
+docker volumes ( example i want to restart my machine in that case my containers in which position stopped or running) if stopped it should not happen what will you do
+Docker Copy and Add command? in dockerfile
+Entrypoint in dockerfile?
+where do store docker images?
+what is the difference b/w docker swarm and kubernetes
+docker stack and docker compose difference?
+what the name space
+difference b/w replica controller and replicaset
+what are the services in kubernetes loadbalancer, node port
+kubernetes deployment file
+what are the steps main key points in that
+docker stack and Kompose?
+
+AWS
+EBS and S3?
+How connect S3 with instance(AWS ALI and Roles)
+i want to attach volume to the instance what is the process?
+mkfs -t ext4 /dev/xvdf
+blkid /dev/xdf (file system is created or not)
+mount to directory
+parminent mount /etc/fstab 
+
+VPC
+IGW, NAT, VPC peering
+public and private subnet
+SG (ALLOW) and NACL(ALLOW and DENY)
+
+ELB, AS
+
+scalling policies?
+vertical scalling and horizantal scalling
+Manual
+
+
+Kubernetes
+
+What is the namespace and uses?
+what are the kubernetes components?
+how do you copy file from ec2 instance/local vm to kubernetes cluster?
+Can you tell me some kubernetes commands and uses?
+how to add one more worker node into kubernetes cluster?
+helm & helm charts uses?
+what is the difference b/w configmap & Secrets in kubernetes?
+what is the difference b/w service and ingress component in kubernetes?
+
+Jenkins
+master slave configuration in jenkins
+Write jenkins pipeline(jenkinsfile) script declarative or scripted?
+What kind of plugins you are using jenkins?
+explain complete CI-CD flow which you are following in your project?
+how to make password less authentication from server to server?
+
+AWS
+How to connect E2 instance to S3?
+How to mount volume to directory(parminent mounting)
+VPC: IGW, NAT, VPC peering
+public and private subnet
+SG (ALLOW) and NACL(ALLOW and DENY)
+What is the difference b/w horizontal and vertical scalling?
+
+
+
+
+
